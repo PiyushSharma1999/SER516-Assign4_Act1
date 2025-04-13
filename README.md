@@ -21,5 +21,6 @@
 
 ##### Checkstyle task commit hash
 - bcd4413e4a0a16e853982d4ce754ee16587df197
-##### Checkstyle actions integration
-- a38cb42b7656f0973442e577eb4be18afa5e8ac0
+##### Checkstyle failure case
+- b77f28c685d6414cd7be22488d5f15bc5e1187b0
+##### Checkstyle success case
