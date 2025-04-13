@@ -40,7 +40,7 @@ jobs:
     
     runs-on: ubuntu-latest
     needs: build
-    permission:
+    permissions:
       contents: read
     
     steps:
