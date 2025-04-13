@@ -16,3 +16,8 @@
 
 #### Task 4 commit hash
 - 9d6b47e4c4319157fc2b8c5ae7c328e3c4b30bba
+
+#### Task 4 commit hash
+
+##### Checkstyle task commit hash
+- bcd4413e4a0a16e853982d4ce754ee16587df197
